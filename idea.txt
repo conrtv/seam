@@ -7,3 +7,7 @@ Use case:
 
     I need a shirt made for my daughter with "Lastname" embroidered on it. I search for local people that can do this for me and send them 
     a message. We agree to meet and provide the shirt. I get it emrboided and payment is confirmed.
+
+    Kelly is a really talented knitter, she recently made some small kitchen items for kids to play with. She posts those on seam 
+    and people can see them and request her to make some for them.
+    
